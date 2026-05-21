@@ -1,6 +1,6 @@
 # Exploring the Effects of Pollutants on Asthma ER Visits across NYC
 ## Questions
- *We identify signiificant factors and scope of the project*
+ *We identify significant factors and scope of the project*
 
 **1. What does your dataset explore?** 
 - How air pollution affects respiratory health across NYC neighborhoods
