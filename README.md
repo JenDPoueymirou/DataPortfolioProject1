@@ -25,7 +25,7 @@
 | Year     | Quantitative
 | *PM2.5* Concentration Level (*μg/m<sup>3</sup>*) | Quantitative
 | *O3* Concentration Level   | Quantitative
-| Neighborhood Poverty Level | Quantitative
+| Neighborhood Poverty Level | Categorical
 
 
 **6. How many independent variables do you have? (you should have more than 5 independent variables)**
